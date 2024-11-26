@@ -1,0 +1,14 @@
+﻿  main.c
+C:\Users\vabba\source\repos\laba5\laba5\Header.h(154,8): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "main.c")
+  
+C:\Users\vabba\source\repos\laba5\laba5\main.c(19,7): warning C4013: getch: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\vabba\source\repos\laba5\laba5\main.c(39,34): warning C4047: функция: "int *" отличается по уровням косвенного обращения от "int **"
+C:\Users\vabba\source\repos\laba5\laba5\main.c(39,34): warning C4024: Input_int_natural_array_rand: различные типы для формального и фактического параметров 1
+C:\Users\vabba\source\repos\laba5\laba5\main.c(41,45): warning C4473: "printf": передано недостаточно аргументов для строки формата
+      C:\Users\vabba\source\repos\laba5\laba5\main.c(41,45):
+      заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 0
+      C:\Users\vabba\source\repos\laba5\laba5\main.c(41,45):
+      отсутствующий вариативный аргумент "1" требуется для строки форматирования "%d"
+  
+  laba5.vcxproj -> C:\Users\vabba\source\repos\laba5\laba5\x64\Debug\laba5.exe
